@@ -49,3 +49,20 @@ footer {
     text-align: center;
     padding: 20px;
 }
+
+.imagem {
+    display: flex;
+    justify-content: center;
+}
+
+.imagem2 {
+    width: 50%;
+}
+
+.imagem3 {
+    width: 40%;
+}
+
+.imagem4 {
+    width: 38%;
+}
